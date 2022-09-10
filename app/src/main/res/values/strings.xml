@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">EditTextValidations</string>
+    <string name="evaluate">evaluate</string>
+    <string name="error_empty">This cannot be empty</string>
 </resources>
